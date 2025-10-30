@@ -1,10 +1,4 @@
 <!-- Banner / Header --> <p align="center"> <img src="https://img.shields.io/badge/Full‑Stack%20Junior-%230f1115?style=for-the-badge&labelColor=5db678&color=4c4e9c" alt="Full-Stack Junior" /> <img src="https://img.shields.io/badge/Available-Yes-5db678?style=for-the-badge" alt="Available" /> </p> <h1 align="center">Hi, I’m Léo 👋</h1> <p align="center"> <em> Junior full‑stack developer (Master’s), rooted in mobile with almost three years of Flutter practice and experienced in web front‑end with React and Vite for high‑performance interfaces. Most experience gained through apprenticeship (Bachelor’s + Master’s) on real mobile and front‑end projects. Currently upskilling in backend and DevOps to handle end‑to‑end: design → delivery → operations. </em> </p>
-Values
-Rigor — Readable code, reusable components, justified technical choices; aiming for a healthy, maintainable codebase.
-
-Curiosity — Active research and frequent testing of new approaches to keep improving.
-
-Product mindset — Focus on usefulness: performance, clarity, and small iterations that deliver value quickly.
 
 Stack
 <!-- Front -->
