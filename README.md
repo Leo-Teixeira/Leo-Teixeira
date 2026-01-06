@@ -13,7 +13,7 @@ Data
 DevOps & Tools
 <p> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" /> <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" /> <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white&style=for-the-badge" alt="DBeaver" /> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" /> </p>
 Links
-<!-->Portfolio: http://147.93.95.243/portfolio/-->
+<!-- Portfolio: http://147.93.95.243/portfolio/ -->
 
 LinkedIn: https://www.linkedin.com/in/teixeiraleo
 
