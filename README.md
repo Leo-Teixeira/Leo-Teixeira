@@ -1,32 +1,52 @@
-## Salut, moi c'est Léo 👋
+<h1 align="center">Salut, moi c'est Léo 👋</h1>
 
-Développeur **full-stack & mobile** à Angers. Trois ans d'alternance sur des applis web et mobiles pour de vrais clients (surtout **Flutter** et **React**), puis mes propres produits en **Next.js / TypeScript**, de la maquette à la mise en prod.
+<p align="center">
+  <strong>Développeur full-stack & mobile</strong> à Angers · Flutter, Next.js, TypeScript
+</p>
 
-📍 En recherche de CDI · Angers, Nantes ou remote · ouvert aussi aux missions freelance
+<p align="center">
+  <img src="https://img.shields.io/badge/En%20recherche%20de%20CDI-Angers%20%2F%20Nantes%20%2F%20remote-b1cb09?style=flat-square&labelColor=1c1c1c" alt="En recherche de CDI à Angers, Nantes ou en remote" />
+  <a href="https://portfolio.lteixeira.fr"><img src="https://img.shields.io/badge/Portfolio-portfolio.lteixeira.fr-b1cb09?style=flat-square&labelColor=1c1c1c" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/teixeiraleo"><img src="https://img.shields.io/badge/LinkedIn-teixeiraleo-b1cb09?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c1c1c" alt="LinkedIn" /></a>
+  <a href="mailto:teixeiraleo72@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-b1cb09?style=flat-square&logo=gmail&logoColor=white&labelColor=1c1c1c" alt="Email" /></a>
+</p>
 
-### Ce que je construis en ce moment
+---
 
-| Projet | En deux mots | Stack | Statut |
-| --- | --- | --- | --- |
-| [**Koper**](https://koper.club) | SaaS multi-tenant pour les clubs de poker associatifs : tournois, adhésions, classements de saison, live temps réel | Next.js, TypeScript, PostgreSQL, Prisma, Socket.io, Stripe | En prod depuis sept. 2026, un club et ~60 joueurs actifs |
-| [**Flozio**](https://portfolio.lteixeira.fr/projets/flozio) | Programmer une vidéo verticale une fois, la publier sur TikTok, Instagram, YouTube Shorts et Facebook, puis comparer les stats | Next.js, TypeScript, PostgreSQL, Trigger.dev, Cloudflare R2 | Bêta fermée |
-| [**Kopek**](https://portfolio.lteixeira.fr/projets/kopek) | Gérer son argent quand les revenus changent d'un mois à l'autre | Next.js, TypeScript, PostgreSQL, Docker, Traefik | En cours |
+### 🧑‍💻 À propos
 
-Ces trois projets sont en solo et leur code est privé. Le détail (choix techniques, contraintes, résultats) est sur le [portfolio](https://portfolio.lteixeira.fr).
+- 🎓 Bachelor puis Master Développeur Full-Stack en alternance (MyDigitalSchool)
+- 📱 Trois ans sur des applis clients en **Flutter** et **React**, chez Vozit puis Diggers (ESN)
+- 🚀 Depuis 2025, je construis mes propres produits en **Next.js / TypeScript**, de la maquette à la mise en prod
+- 🔭 Ouvert aussi aux missions freelance
 
-### Avant ça, en alternance
+### 🛠️ Projets en cours
 
-- **Diggers** (ESN, 2023–2025) : Diggers+, app interne gamifiée en Flutter (4 devs, 1 PO, publiée sur les stores) et Petiboo, app de gestion d'école en Flutter + Directus.
-- **Vozit** (2022–2023) : Vozitel, softphone d'entreprise en Flutter avec son back-office Express, et la refonte de l'app mobile Carbao.
-- Bachelor puis Master Développeur Full-Stack à MyDigitalSchool.
+| Projet | Description | Statut |
+| --- | --- | --- |
+| [**Koper**](https://koper.club) | SaaS multi-tenant pour les clubs de poker associatifs : tournois, adhésions, classements, live temps réel | 🟢 En prod, ~60 joueurs actifs |
+| [**Flozio**](https://portfolio.lteixeira.fr/projets/flozio) | Publier une vidéo verticale sur TikTok, Instagram, YouTube et Facebook en une fois, puis comparer les stats | 🟡 Bêta fermée |
+| [**Kopek**](https://portfolio.lteixeira.fr/projets/kopek) | Gérer son argent quand les revenus changent d'un mois à l'autre | 🔵 En cours |
 
-### Stack
+<sub>Le code de ces projets est privé. Le détail (choix techniques, contraintes, résultats) est sur le <a href="https://portfolio.lteixeira.fr">portfolio</a>.</sub>
 
-- **Mobile** : Flutter, Dart, Bloc, GoRouter
-- **Web** : Next.js, React, TypeScript, Tailwind, Vue
-- **Back & data** : Node.js, Express, Prisma, PostgreSQL, Socket.io
-- **Infra** : Docker, Traefik, VPS, CI GitHub Actions
+### ⚙️ Stack
 
-### Me contacter
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,tailwind,vue,nodejs,express,prisma,postgres,docker,githubactions,linux&theme=dark" alt="Flutter, Dart, Next.js, React, TypeScript, Tailwind, Vue, Node.js, Express, Prisma, PostgreSQL, Docker, GitHub Actions, Linux" />
+</p>
 
-[Portfolio](https://portfolio.lteixeira.fr) · [LinkedIn](https://www.linkedin.com/in/teixeiraleo) · [teixeiraleo72@gmail.com](mailto:teixeiraleo72@gmail.com)
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Leo-Teixeira&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1c1c1c&title_color=b1cb09&icon_color=b1cb09&text_color=d9d9d9&locale=fr" alt="Statistiques GitHub de Léo" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Teixeira&layout=compact&hide_border=true&bg_color=1c1c1c&title_color=b1cb09&text_color=d9d9d9&locale=fr" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Leo-Teixeira&hide_border=true&background=1c1c1c&ring=b1cb09&fire=b1cb09&currStreakLabel=b1cb09&sideLabels=d9d9d9&currStreakNum=d9d9d9&sideNums=d9d9d9&dates=8c8c8c&stroke=303030&locale=fr" alt="Série de contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Teixeira&bg_color=1c1c1c&color=d9d9d9&line=b1cb09&point=d9d9d9&area=true&area_color=b1cb09&hide_border=true&title_color=b1cb09&custom_title=Activit%C3%A9%20sur%20les%2030%20derniers%20jours" alt="Graphique d'activité" />
+</p>
